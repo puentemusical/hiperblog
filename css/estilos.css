@@ -32,3 +32,11 @@ body
  align-items: center;
  font-size: 44px;    
 }
+
+footer {
+ text-align: center;
+ color: #DDD;
+ background: #333;
+ padding: 10px;
+max-height: 100px;  
+}
